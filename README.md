@@ -1,0 +1,2 @@
+# gostack=typescript-primeiro-projeto
+ 
